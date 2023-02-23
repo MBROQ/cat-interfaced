@@ -20,4 +20,5 @@ public class Cat extends Animal implements Purr {
 	public int purr() {
 		return 25;
 	}
+
 }
